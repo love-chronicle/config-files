@@ -1,0 +1,4 @@
+[http]
+	proxy = socks5h://127.0.0.1:6153
+[https]
+	proxy = socks5h://127.0.0.1:6153
